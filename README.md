@@ -22,9 +22,6 @@
   <a href="https://discord.com/users/270578218505994241" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=696969&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lazaro-marrero-rousse-2564601b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
