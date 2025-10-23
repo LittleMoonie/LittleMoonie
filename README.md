@@ -92,7 +92,7 @@
 
 ###
 
-<p align="left">Voeira:  A Social Media app focused on content creators & their communities.</p>
+<p align="left">Voeira:  A Medical EHR system.</p>
 
 ###
 
