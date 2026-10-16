@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 208" role="img" aria-labelledby="title desc">
+<title id="title">RoKIndex</title><desc id="desc">See the kingdom. Plan your next move.</desc>
+<style>@media(max-width:600px){.project-name{font-size:80px;transform:translateY(18px)}.project-subtitle{display:none}}</style>
+<defs>
+<radialGradient id="glow"><stop stop-color="#ccc5b6" stop-opacity=".14"/><stop offset="1" stop-color="#ccc5b6" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade"><stop stop-color="#ccc5b6" stop-opacity="0"/><stop offset=".5" stop-color="#ccc5b6" stop-opacity=".65"/><stop offset="1" stop-color="#ccc5b6" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="1199" height="207" rx="8" fill="#141516" stroke="#303234"/>
+<ellipse cx="1000" cy="105" rx="320" ry="210" fill="url(#glow)"/>
+<path d="M44 46v116" stroke="#ccc5b6" stroke-width="3" stroke-linecap="round"/>
+<text class="project-name" x="74" y="107" fill="#e4e2dc" font-family="Georgia,Times New Roman,serif" font-size="55">RoKIndex</text>
+<text class="project-subtitle" x="77" y="149" fill="#ccc5b6" font-family="Segoe UI,Arial,sans-serif" font-size="24">See the kingdom. Plan your next move.</text>
+<g fill="none" stroke="#ccc5b6">
+<path d="M967 30l69 40v78l-69 40-69-40V70z" stroke-opacity=".28"/>
+<path d="M967 48l53 30v61l-53 31-53-31V78z" stroke-opacity=".16"/>
+<path d="M815 104h73m157 0h91M967 30V17m0 171v10" stroke-opacity=".3" stroke-dasharray="3 7"/>
+<path d="M929 137V83h13v13h15V76h20v20h15V83h13v54zm27 0v-23h22v23" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="815" cy="104" r="5"/><circle cx="1136" cy="104" r="5"/>
+<circle cx="898" cy="70" r="3.5" fill="#ccc5b6"/><circle cx="1036" cy="148" r="3.5" fill="#ccc5b6"/>
+</g>
+</svg>

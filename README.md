@@ -1,63 +1,116 @@
-<h1 align="left">Hi 🌙 I'm Little Moonie - a Full Stack Developer passionate about AI & Innovation!</h1>
-
-###
-
-<h2 align="left">🚀 About Me</h2>
-
-###
-
-<p align="left">
-Hey there! I'm <strong>@LittleMoonie</strong> - a curious and creative developer who loves turning complex ideas into elegant, functional software.  
-I’m passionate about <strong>AI</strong>, <strong>automation</strong>, and building systems that feel both intelligent and intuitive.  
-<br><br>
-🔭 I’m currently working on: <strong>Voeira</strong> - an AI-driven Medical EHR platform.  
-🌱 I’m learning: <strong>Rust</strong> and deepening my skills in <strong>AI workflows</strong> and <strong>Full Stack development</strong>.  
-⚡ Fun fact: If Earth were the size of a nickel, the Moon would be about as big as a coffee bean ☕🌕  
+<p align="center">
+  <img src="./assets/moonlit-landscape.png" width="100%" alt="A quiet graphite landscape: a crescent moon over a mountain lake, soft clouds, and silver rain." />
 </p>
 
-###
+<h1 align="center">Little Moonie ☾</h1>
 
-<div align="right">
-  <img height="230" src="https://media1.tenor.com/m/uk9xO0xpWoIAAAAC/burger-eating.gif" alt="fun gif"/>
-</div>
-
-###
-
-<h2 align="left">🛠️ Skills & Technologies</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,cs,py,java,js,html,css,tailwind,bootstrap,docker,threejs,materialui,mysql,postgres,github,vscode,visualstudio,azure,jetbrains" height="30" alt="tech stack" />
-</div>
-
-###
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=littlemoonie&theme=darkhub&margin-w=4&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h2 align="left">🚀 Featured Project</h2>
-
-###
-
-<p align="left">
-<strong>Voeira</strong> - A next-generation AI Medical Co-Pilot and EHR platform designed to connect healthcare professionals and patients seamlessly.  
-<em>Built with precision, scalability, and a vision for the future of intelligent healthcare.</em>
+<p align="center">
+  Full stack developer. Curious about AI. Always building something.
 </p>
 
-###
+<p align="center">
+  <img src="https://media1.tenor.com/m/uk9xO0xpWoIAAAAC/burger-eating.gif" width="170" alt="Frieren enjoying a burger." />
+</p>
 
-<h2 align="left">🐍 Snake</h2>
+<p align="center">
+  Hey, I'm <strong>@LittleMoonie</strong> — I like turning complicated ideas into things that feel simple.<br />
+  Usually somewhere between an AI workflow, a new feature, and one more idea.
+</p>
 
-###
+<p align="center">
+  <a href="#what-im-building">My projects</a> &nbsp; / &nbsp;
+  <a href="#my-toolkit">My toolkit</a> &nbsp; / &nbsp;
+  <a href="#after-hours">After hours</a>
+</p>
 
-<br clear="both">
+<p align="center"><img src="./assets/moon-divider.svg" width="100%" alt="" /></p>
 
-<img src="https://raw.githubusercontent.com/littlemoonie/littlemoonie/output/snake.svg" alt="Snake animation" />
+## What I'm building
+
+<p>
+  <img src="./assets/voeira.svg" width="100%" alt="Voeira — healthcare, thoughtfully connected." />
+</p>
+
+**Voeira** is an AI medical co-pilot and electronic health record platform I'm building to connect healthcare professionals and patients.
+
+<p>
+  <a href="https://peaked.gg/">
+    <img src="./assets/peakedgg.svg" width="100%" alt="PeakedGG — know your game, find your people. Visit PeakedGG." />
+  </a>
+</p>
+
+**PeakedGG** brings stats for **League of Legends, Teamfight Tactics, and VALORANT** together with tools for building gaming communities. Understand your performance, follow your progress, and find your people.
+
+[Explore PeakedGG](https://peaked.gg/)
+
+<p>
+  <img src="./assets/rokindex.svg" width="100%" alt="RoKIndex — see the kingdom, plan your next move." />
+</p>
+
+**RoKIndex**, formerly **Arcane Kingdoms**, brings management, stats, and analytics to **Rise of Kingdoms** — from individual governors to alliances and entire kingdoms.
+
+## My toolkit
+
+I build full stack products, work with AI and machine learning, and run the infrastructure behind my projects.
+
+**Languages**<br />
+`TypeScript` `JavaScript` `C#` `Python` `Rust` `Dart` `Java` `PHP`
+
+**Web, desktop & mobile**<br />
+`React` `Next.js` `.NET / ASP.NET Core` `Node.js / Express` `Laravel` `Flutter` `Tauri`
+
+**AI & machine learning**<br />
+`PyTorch` `Jupyter` `CNNs` `Reinforcement learning` `AI copilots` `Computer vision / OCR`
+
+**Data & analytics**<br />
+`PostgreSQL` `MySQL` `ClickHouse` `Redis` `Big data`
+
+**Infrastructure & delivery**<br />
+`Docker / Docker Compose` `Kubernetes` `Linux` `VPS hosting` `Distributed workers` `NGINX` `GitHub Actions` `Azure`
+
+I use Rust for performance and Tauri apps, ClickHouse for big data, and VPS infrastructure for websites and distributed workers. My AI work spans copilots for Voeira, CNNs, and reinforcement learning.
+
+<details>
+<summary><strong>More tools I've worked with</strong></summary>
+
+<br />
+
+**Interface & UI**<br />
+`HTML` `CSS` `Tailwind CSS` `Bootstrap` `Material UI` `Three.js` `TanStack` `shadcn/ui`
+
+**Backend & storage**<br />
+`Entity Framework Core` `TypeORM` `SQLite`
+
+**Testing & observability**<br />
+`Playwright` `Vitest` `Jest` `xUnit` `Prometheus` `Grafana` `OpenTelemetry`
+
+**Editors & tooling**<br />
+`GitHub` `VS Code` `Visual Studio` `JetBrains`
+
+</details>
+
+<p align="center"><img src="./assets/moon-divider.svg" width="100%" alt="" /></p>
+
+## After hours
+
+Shows, snacks, a little curiosity, and A LOOOOT more projects
+
+<details>
+<summary><strong>A hungry little snake lives here.</strong></summary>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/littlemoonie/littlemoonie/output/snake.svg" width="100%" alt="A snake winds through my GitHub contribution grid." />
+
+</details>
+
+<details>
+<summary><strong>A small Moon fact, just because.</strong></summary>
+
+If Earth were the size of a nickel, the Moon would be about as big as a coffee bean. ☕🌕
+
+</details>
+
+<br />
+
+<p align="center"><sub>Thanks for stopping by my little corner of the universe. 🌙</sub></p>

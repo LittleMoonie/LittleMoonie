@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-labelledby="title">
+  <title id="title">A delicate silver crescent and lunar phases</title>
+  <style>
+    svg { color: #626267; }
+    @media (prefers-color-scheme: dark) { svg { color: #ded8cc; } }
+  </style>
+  <defs>
+    <linearGradient id="left" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="currentColor" stop-opacity="0"/>
+      <stop offset="1" stop-color="currentColor" stop-opacity=".34"/>
+    </linearGradient>
+    <linearGradient id="right" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="currentColor" stop-opacity=".34"/>
+      <stop offset="1" stop-color="currentColor" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M 160 32 H 470" fill="none" stroke="url(#left)" stroke-width=".8"/>
+  <path d="M 730 32 H 1040" fill="none" stroke="url(#right)" stroke-width=".8"/>
+  <g fill="currentColor">
+    <path d="M 517 27 A 5.2 5.2 0 1 0 517 37 A 6.3 6.3 0 0 1 517 27 Z" opacity=".48"/>
+    <path d="M 553 25.5 A 6.5 6.5 0 0 0 553 38.5 Z" opacity=".55"/>
+    <path d="M 606 18.5 A 14.8 14.8 0 1 0 606 45.5 A 17 17 0 0 1 606 18.5 Z" opacity=".9"/>
+    <path d="M 647 25.5 A 6.5 6.5 0 0 1 647 38.5 Z" opacity=".55"/>
+    <path d="M 683 27 A 5.2 5.2 0 1 1 683 37 A 6.3 6.3 0 0 0 683 27 Z" opacity=".48"/>
+  </g>
+</svg>
