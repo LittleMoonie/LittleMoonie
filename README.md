@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Hey, I'm <strong>@LittleMoonie</strong> — I like turning complicated ideas into things that feel simple.<br />
+  Hey, I'm <strong>@LittleMoonie</strong>. I like turning complicated ideas into things that feel simple.<br />
   Usually somewhere between an AI workflow, a new feature, and one more idea.
 </p>
 
@@ -27,27 +27,25 @@
 
 ## What I'm building
 
+These projects are works in progress.
+
 <p>
-  <img src="./assets/voeira.svg" width="100%" alt="Voeira — healthcare, thoughtfully connected." />
+  <img src="./assets/voeira.svg" width="100%" alt="Voeira: healthcare, thoughtfully connected." />
 </p>
 
 **Voeira** is an AI medical co-pilot and electronic health record platform I'm building to connect healthcare professionals and patients.
 
 <p>
-  <a href="https://peaked.gg/">
-    <img src="./assets/peakedgg.svg" width="100%" alt="PeakedGG — know your game, find your people. Visit PeakedGG." />
-  </a>
+  <img src="./assets/peakedgg.svg" width="100%" alt="PeakedGG: know your game, find your people." />
 </p>
 
-**PeakedGG** brings stats for **League of Legends, Teamfight Tactics, and VALORANT** together with tools for building gaming communities. Understand your performance, follow your progress, and find your people.
-
-[Explore PeakedGG](https://peaked.gg/)
+**PeakedGG** is a work in progress combining stats for **League of Legends, Teamfight Tactics, and VALORANT** with gaming community tools. Development is currently paused.
 
 <p>
-  <img src="./assets/rokindex.svg" width="100%" alt="RoKIndex — see the kingdom, plan your next move." />
+  <img src="./assets/rokindex.svg" width="100%" alt="RoKIndex: see the kingdom, plan your next move." />
 </p>
 
-**RoKIndex**, formerly **Arcane Kingdoms**, brings management, stats, and analytics to **Rise of Kingdoms** — from individual governors to alliances and entire kingdoms.
+**RoKIndex**, formerly **Arcane Kingdoms**, brings management, stats, and analytics to **Rise of Kingdoms**, from individual governors to alliances and entire kingdoms.
 
 ## My toolkit
 
